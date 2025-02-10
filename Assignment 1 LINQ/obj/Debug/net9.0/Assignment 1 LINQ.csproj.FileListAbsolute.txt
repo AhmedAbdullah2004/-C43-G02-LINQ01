@@ -1,0 +1,15 @@
+C:\Route\C#\Assignment 1 LINQ\bin\Debug\net9.0\Assignment 1 LINQ.exe
+C:\Route\C#\Assignment 1 LINQ\bin\Debug\net9.0\Assignment 1 LINQ.deps.json
+C:\Route\C#\Assignment 1 LINQ\bin\Debug\net9.0\Assignment 1 LINQ.runtimeconfig.json
+C:\Route\C#\Assignment 1 LINQ\bin\Debug\net9.0\Assignment 1 LINQ.dll
+C:\Route\C#\Assignment 1 LINQ\bin\Debug\net9.0\Assignment 1 LINQ.pdb
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.AssemblyInfoInputs.cache
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.AssemblyInfo.cs
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.csproj.CoreCompileInputs.cache
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.dll
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\refint\Assignment 1 LINQ.dll
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.pdb
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.genruntimeconfig.cache
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\ref\Assignment 1 LINQ.dll
+C:\Route\C#\Assignment 1 LINQ\obj\Debug\net9.0\Assignment 1 LINQ.sourcelink.json
